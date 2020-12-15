@@ -1,6 +1,6 @@
 {fmt}
 =====
-
+ 
 .. image:: https://github.com/fmtlib/fmt/workflows/linux/badge.svg
    :target: https://github.com/fmtlib/fmt/actions?query=workflow%3Alinux
 
